@@ -118,7 +118,7 @@ VALUES
 (default, 'Celebration Of More', '2', '146', '4'),
 (default, 'Rock His Everything', '2', '223', '4'),
 (default, 'Home Forever', '2',  '231', '4'),
-(default, 'Power', '2', '241', '4'),
+(default, 'Diamond Power', '2', '241', '4'),
 (default, 'Lets Be Silly', '2', '132', '4'),
 (default, 'Thang Of Thunder', '3', '240', '5'),
 (default, 'Words Of Her Life', '3', '185', '5'),
